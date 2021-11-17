@@ -28,9 +28,13 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>com.bootcamp.starter</groupId>
-			<artifactId>starter</artifactId>
+			<groupId>com.bootcamp.stater</groupId>
+			<artifactId>Starter</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 	</dependencies>
 
